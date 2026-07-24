@@ -1,0 +1,3 @@
+Natural language processing is an interesting field.
+Students are studying stemming algorithms.
+Running, playing and learning improve skills.
